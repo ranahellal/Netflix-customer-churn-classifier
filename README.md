@@ -136,3 +136,6 @@ cd Netflix-customer-churn-classifier
 
 # Install dependencies
 pip install -r requirements.txt
+```
+---
+### **This project is for educational and portfolio purposes.**
